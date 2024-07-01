@@ -1,4 +1,4 @@
-ver = "0.3"
+ver = "0.2"
 
 class Member:
     def __init__(self, name, words=""):
@@ -18,7 +18,7 @@ mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 
-newmember = Member("伊美祐希", "よろしくお願いいたします。")
+newmember = Member("酒井隆之介", "よろしく！")
 mlist.append(newmember)
 
 # メンバー表示
