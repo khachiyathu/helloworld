@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ver = "0.5"
 =======
 ver = "0.2"
 >>>>>>> Stashed changes
+=======
+ver = "0.2"
+>>>>>>> 5f6e6098760df310092771019596dc433978bbe9
 
 class Member:
     def __init__(self, name, words=""):
@@ -21,8 +25,12 @@ newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 newmember = Member("蜂屋孝太郎", "アタオカです！")
+=======
+newmember = Member("服部一花", "姓の読みはハットリです")
+>>>>>>> 5f6e6098760df310092771019596dc433978bbe9
 mlist.append(newmember)
 
 newmember = Member("伊藤圭", "よろしく")
