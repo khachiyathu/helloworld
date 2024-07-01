@@ -1,4 +1,4 @@
-ver = "0.2"
+ver = "0.4"
 
 class Member:
     def __init__(self, name, words=""):
@@ -17,15 +17,14 @@ newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
-<<<<<<< Updated upstream
+newmember = Member("蜂屋孝太郎", "アタオカです！")
+mlist.append(newmember)
+
 newmember = Member("伊藤圭", "よろしく")
 mlist.append(newmember)
 
-=======
-
 newmember = Member("伊美祐希", "よろしくお願いいたします。")
 mlist.append(newmember)
->>>>>>> Stashed changes
 
 # メンバー表示
 print("各メンバーから一言")
