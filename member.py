@@ -17,9 +17,8 @@ newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
-newmember = Member("山口莉歩", "やまぐちです！")
+newmember = Member("山口莉歩", "ヤマグチです！")
 mlist.append(newmember)
-
 
 # メンバー表示
 print("各メンバーから一言")
