@@ -43,6 +43,8 @@ newmember = Member("高野瞬", "こんばんは")
 mlist.append(newmember)
 newmember = Member("伊美祐希", "よろしくお願いいたします。")
 mlist.append(newmember)
+newmember = Member("山口莉歩", "ヤマグチです！")
+mlist.append(newmember)
 
 # メンバー表示
 print("各メンバーから一言")
