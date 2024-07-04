@@ -1,7 +1,11 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ver = "0.3"
 =======
 ver = "0.14"
+=======
+ver = "0.2"
+>>>>>>> Stashed changes
 
 >>>>>>> 54d61dc7068851e05923c46e033d27a675c3f41e
 class Member:
@@ -21,6 +25,7 @@ newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 newmember = Member("三瓶祥太", "よろしく！")
 mlist.append(newmember)
@@ -63,6 +68,10 @@ newmember = Member("高野瞬", "こんばんは")
 mlist.append(newmember)
 newmember = Member("伊美祐希", "よろしくお願いいたします。")
 <<<<<<< HEAD
+=======
+newmember = Member("三瓶祥太", "あたおかです！")
+mlist.append(newmember)
+>>>>>>> Stashed changes
 
 
 =======
