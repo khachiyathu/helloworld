@@ -13,7 +13,7 @@ print("--------------------------------")
 
 # メンバー追加
 mlist = []
-newmember = Member("阿保拓実", "よろしくお願いします")
+newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
